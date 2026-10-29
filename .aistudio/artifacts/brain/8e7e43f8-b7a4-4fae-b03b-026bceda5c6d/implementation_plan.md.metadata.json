@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural blueprint and implementation plan for the UK AI Job Lead Generation Agent & Operator Command Center. Covers the hybrid ingestion pipeline (Playwright headless crawler + UK job APIs), PostgreSQL + pgvector storage strategy, candidate profile onboarding with verified Fact Bank, ATS simulation gate, and zero-touch candidate handoff workflow.",
+  "updatedAt":  "2026-10-22T15:02:04.381029261Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

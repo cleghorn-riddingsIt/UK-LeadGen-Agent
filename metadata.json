@@ -1,0 +1,6 @@
+{
+  "name": "UK AI Job Lead Generation Agent & Operator Command Center",
+  "description": "Autonomous multi-agent job vacancy crawler, semantic skill matching, truthful CV tailoring, and zero-touch applicant conversion funnel for the UK tech market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
